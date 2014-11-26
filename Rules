@@ -1,0 +1,33 @@
+#!/usr/bin/env ruby
+
+compress = File.exists? 'COMPRESS'
+
+compile '/stylesheet/' do
+  filter :less
+  filter :rainpress if compress
+end
+
+compile '*' do
+  unless item.binary?
+    filter :erb
+    filter :kramdown
+    layout 'default'
+    filter :relativize_paths, :type => :html
+    filter :externalize_links
+    filter :html5small if compress
+  end
+end
+
+route '/stylesheet/' do
+  '/styles/main.css'
+end
+
+route '*' do
+  if item.binary?
+    item.identifier.chop + '.' + item[:extension]
+  else
+    item.identifier + 'index.html'
+  end
+end
+
+layout '*', :erb

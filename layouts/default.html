@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title><%= @item[:index] ? '' : "#{h @item[:title]} | " %>WS-REST 2015</title>
+  <link rel="stylesheet" href="/styles/main.css">
+  <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic" rel="stylesheet">
+</head>
+<body class="<%= @item[:title].gsub(/\W/, '').downcase %>">
+  <header>
+    <h1><a href="/"><strong>WS-REST2015</strong> Workshop on Web APIs and RESTful Design</a></h1>
+    <p><a href="http://www.www2015.it/">World Wide Web Conference</a> – 18 May 2015 – Florence, Italy</p>
+  </header>
+  <nav>
+    <ul>
+      <% @items.find_all{|c| c[:extension] =~ /^md/ and not c[:index] and not c[:hide]}.
+                sort{|a,b| a[:filename] <=> b[:filename]}.
+                sort{|a,b| (a[:order] || 10) <=> (b[:order] || 10)}.
+                each do |page| %>
+        <li<%= @item == page ? ' class="active"' : '' %>><%= link_to page[:title], page %></li>
+      <% end %>
+    </ul>
+  </nav>
+  <main>
+    <%= yield %>
+  </main>
+  <footer>
+    <p>WS-REST 2015 – Workshop on Web APIs and RESTful Design – 18 May 2015 – Florence, Italy</p>
+  </footer>
+</body>
+</html>
