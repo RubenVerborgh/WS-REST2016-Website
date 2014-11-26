@@ -36,6 +36,7 @@ main {
   min-height: 15em;
 
   h1, h2, h3 {
+    font-size: 1.6em;
     margin: 1em 0 .2em;
     color: @dim;
   }
@@ -66,7 +67,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   min-height: 100%;
-  background-color: @background;
+  background: @background url(../images/florence.jpg) no-repeat top right;
 }
 
 header {
@@ -124,9 +125,14 @@ p {
   }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
   body {
-    font-size: 11pt;
+    background-image: none;
+  }
+}
+
+@media (max-width: 600px) {
+  body {
     padding: 5px 15px;
   }
   header {
@@ -137,7 +143,7 @@ p {
   nav {
     clear: left;
     margin: 0;
-    font-size: 1.1em;
+    font-size: 1em;
     li {
       display: inline;
       padding-right: .5em;
