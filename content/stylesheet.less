@@ -53,7 +53,20 @@ aside {
 }
 
 ul {
-  margin: .5em 0 1em;
+  padding: 0;
+  margin: .5em 0 0;
+  list-style: none;
+}
+main {
+  li {
+    text-indent: -1em;
+    padding-left: 1em;
+    &:before {
+      content: "▸ ";
+      padding-right: .2em;
+      color: @accent;
+    }
+  }
 }
 
 dl {
@@ -110,12 +123,6 @@ header {
 nav {
   font-size: 1.2em;
   margin: .5em 0;
-  ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    text-align: left;
-  }
   li {
     display: inline;
     padding-right: 1.45em;
