@@ -35,10 +35,13 @@ p {
 main {
   min-height: 15em;
 
-  h1, h2, h3 {
+  h1, h2 {
     font-size: 1.6em;
     margin: 1em 0 .2em;
     color: @dim;
+  }
+  h2 {
+    font-size: 1.3em;
   }
 }
 
@@ -46,15 +49,16 @@ ul {
   margin: .5em 0 1em;
 }
 
+dl {
+  margin: 0 0 .5em;
+}
 dt {
   margin-right: 20px;
   color: @accent;
   font-weight: bold;
-
-  .dates & {
-    float: left;
-    clear: left;
-  }
+  float: left;
+  clear: left;
+  min-width: 5em;
 }
 
 ins {
