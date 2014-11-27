@@ -21,6 +21,12 @@
       <% end %>
     </ul>
   </nav>
+  <% if @item[:index] %>
+  <aside>
+    <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/wsREST" data-widget-id="537891453733990400" data-chrome="transparent noborders">Tweets by @wsREST</a>
+    <script src="//platform.twitter.com/widgets.js"></script>
+  </aside>
+  <% end %>
   <main>
     <%= yield %>
   </main>
