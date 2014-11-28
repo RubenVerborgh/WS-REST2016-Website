@@ -13,10 +13,9 @@ We especially welcome research and engineering work in the following areas:
 - dynamic **combination** of and **interactions** between Web APIs
 - novel **hypermedia-driven** solutions
 - tackling the tremendous **growth** and **heterogeneity** of APIs
-- analysis and understanding of the **social and economic factors**
-  surrounding the development, use, and adoption of Web APIs and mashups
-- novel solutions for the automated **discovery** and **profiling** of Web APIs
-- novel technologies for facilitating the development of mashups and services for the **Web of Things**
+- analyses and studies around the **practical, social, and economic factors** surrounding the development, use, and adoption of   Web APIs and mashups
+- novel solutions for the automated discovery and profiling of Web APIs
+- Web APIs, platforms, and protocols for the **Web of Things** including, e.g., Web APIs and RESTful protocols for constrained    devices and real-time applications, novel solutions for finding and mashing up distributed "things" over the Web, etc
 - **lessons** learned from the deployment, maintenance and evolution of Web APIs and mashups
 
 ## All Topics
