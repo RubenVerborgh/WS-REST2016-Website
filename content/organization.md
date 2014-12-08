@@ -13,28 +13,25 @@ order: 20
 
 ## Program Committee
 
-To be confirmed.
-Last year's program committee consisted of:
-
-- **Jim Webber**, Neo Technology
-- **Steve Vinoski**, Verivue
-- **Leonard Richardson**
-- **Steve Klabnik**
-- **Ivan Zuzak**, GitHub
-- **Joe Gregorio**, Google
-- **Mike Amundsen**, Layer7
-- **Stefan Tilkov**, innoQ
 - **Benjamin Carlyle**, Siemens
-- **Vlad Stirbu**, Nokia
-- **Erik Wilde**, Siemens
-- **Rosa Alarcón**, Pontificia Universidad Catolica de Chile
 - **Cesare Pautasso**, University of Lugano
-- **Stefan Dietze**, L3S Research Center
-- **Markus Lanthaler**, Graz University of Technology
-- **Sylvia Schreier**, innoQ
-- **Yves Lafon**, W3C
-- **Tomas Vitvar**, Oracle
+- **Charalampos Doukas**, CREATE-NET
 - **Christoph Bussler**, Tropo
-- **Luca Panziera**, The Open University
 - **Dave Raggett**, W3C
+- **Erik Wilde**, Siemens
+- **Ivan Zuzak**, GitHub
+- **Jim Webber**, Neo Technology
+- **Joe Gregorio**, Google
+- **Leonard Richardson**
+- **Markus Lanthaler**, Google
 - **Michael Mrissa**, Université Lyon 1
+- **Mike Amundsen**, Layer7
+- **Rosa Alarcón**, Pontificia Universidad Catolica de Chile
+- **Stefan Dietze**, L3S Research Center
+- **Stefan Tilkov**, innoQ
+- **Steve Klabnik**, Balanced Payments
+- **Steve Vinoski**, Verivue
+- **Silvia Schreier**, innoQ
+- **Tomas Vitvar**, Oracle
+- **Vlad Stirbu**, Nokia
+- **Yves Lafon**, W3C
