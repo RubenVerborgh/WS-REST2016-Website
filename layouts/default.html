@@ -5,6 +5,7 @@
   <title><%= @item[:index] ? '' : "#{h @item[:title]} | " %>WS-REST 2015</title>
   <link rel="stylesheet" href="/styles/main.css">
   <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic" rel="stylesheet">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 <body class="<%= @item[:title].gsub(/\W/, '').downcase %>">
   <header>
