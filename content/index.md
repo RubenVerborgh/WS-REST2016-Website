@@ -5,6 +5,10 @@ index: true
 
 # Web APIs for a Web in evolution
 
+<div class="attention" markdown="1">
+[Deadline extended to 31 January 2015. Submit your work now!](/call-for-papers/)
+</div>
+
 The Web is changing at a tremendous speed, and **Web APIs** play an important part in that.
 In fact, the number of Web APIs is growing so quickly that we face **many challenges**.
 
