@@ -15,7 +15,7 @@ Why?
 : Web APIs are more important than ever, yet many unsolved problems demand our attention.
 
 When?
-: Full-day workshop on May 18, 2015 – paper submissions before January 24, 2015.
+: Full-day workshop on May 18, 2015 – **paper submissions before January 31, 2015.**
 
 Where?
 : At the [WWW2015 conference](http://www.www2015.it/) in Florence, Italy.
@@ -72,7 +72,7 @@ Accepted publications in other formats, such as HTML or EPUB,
 will be published on the workshop's website.
 
 Submission
-: 24 January 2015 _(23:59 Hawaii Standard Time)_ through [EasyChair](https://easychair.org/conferences/?conf=wsrest2015)
+: <del>24 January 2015</del> <ins>31 January 2015</ins> through [EasyChair](https://easychair.org/conferences/?conf=wsrest2015)
 
 Notification
 : 22 February 2015
