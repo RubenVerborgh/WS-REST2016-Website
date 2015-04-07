@@ -5,10 +5,6 @@ index: true
 
 # Web APIs for a Web in evolution
 
-<div class="attention" markdown="1">
-[Deadline extended to 31 January 2015. Submit your work now!](/call-for-papers/)
-</div>
-
 The Web is changing at a tremendous speed, and **Web APIs** play an important part in that.
 In fact, the number of Web APIs is growing so quickly that we face **many challenges**.
 
@@ -21,12 +17,8 @@ to tackle the issues we are facing. Many of them are not solved by far:
 
 These and many related [topics](/topics/) form the theme of WS-REST.
 
-## Participate in WS-REST – submit your work
-Do you have something to say about the above questions?
-<br>
-Or are you working on anything Web API- or REST-related you want to show?
-<br>
-**The [Call for Papers](/call-for-papers/) explains how to submit your work!**
+## Participate in WS-REST
+Join us for an [exciting day](/program/)!
 
 ## Previous editions
 WS-REST 2015 marks the **sixth edition** of the workshop, after the following successful editions:

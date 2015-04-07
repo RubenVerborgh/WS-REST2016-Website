@@ -5,17 +5,26 @@ order: 15
 
 # 18 May 2015
 
-WS-REST 2015 will feature a combination of
+## Session I: Keynote – Testing (9:00–10:30)
+**Session chair:** Carlos Pedrinaci
 
-- **talks** by [submission authors](/call-for-papers/)
-- **interactive discussions** with the audience
-- one or two **inspiring keynotes** by leading Web API experts
+- **9:00–10:00:** Keynote by Erik Wilde
+- **10:00–10:30:** *Model-driven Testing of RESTful APIs.* Tobias Fertig and Peter Braun
 
-# Accepted Papers
+## Coffee break (10:30–11:00)
 
-- Tobias Fertig and Peter Braun. **Model-driven Testing of RESTful APIs**
-- Michael Petychakis, Fenareti Lampathaki, and Dimitris Askounis. **Adding Rules on Existing Hypermedia APIs**
-- Junjie Feng and Aaron Harwood. **BrowserCloud: A Personal Cloud for Browser Session Migration and Management**
-- Ronnie Mitra. **Sketching a Better Web API**
-- Jose Renato Dantas, Hermano Albuquerque Lira, Bruno Muniz, Tadeu Matos Nunes, and Pedro Porfirio Muniz Farias. **An approach to support data integrity for web services using semantic RESTful interfaces**
-- Felix Leif Keppmann, Maria Maleshkova, and Andreas Harth. **Towards Optimising the Data Flow in Distributed Applications**
+## Session II: Hypermedia and Semantics (11:00–12:30)
+**Session chair:** Thomas Steiner
+
+- **11:00–11:30:** *BrowserCloud: A Personal Cloud for Browser Session Migration and Management*. Junjie Feng and Aaron Harwood
+- **11:30–12:00:** *Sketching a Better Web API*. Ronnie Mitra
+- **12:00–12:30:** *Towards Optimising the Data Flow in Distributed Application*. Felix Leif Keppmann and Maria Maleshkova
+
+## Lunch (12:30–14:00)
+
+## Session III: REST in practice – Closing discussion (14:00–15:30)
+**Session chair:** Thomas Steiner
+
+- **14:00–14:30:** *Adding Rules on Existing Hypermedia APIs*. Michael Petychakis and Fenareti Lampathaki and Dimitrios Askounis
+- **14:30–15:00:** *An approach to support data integrity for web services using semantic RESTful interfaces*. Hermano Albuquerque Lira and José Renato Villela Dantas and Bruno de Azevedo Muniz and Tadeu Matos Nunes and Pedro Porfírio Muniz Farias
+- **15:00–15:30:** Closing discussion

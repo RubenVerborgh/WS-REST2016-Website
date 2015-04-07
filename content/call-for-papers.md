@@ -20,8 +20,6 @@ When?
 Where?
 : At the [WWW2015 conference](http://www.www2015.it/) in Florence, Italy.
 
-[Submit your paper through EasyChair.](https://easychair.org/conferences/?conf=wsrest2015)
-
 ## Scope
 **Thousands of APIs** exist and their number is growing tremendously,
 while use cases become increasingly complex.
@@ -72,10 +70,10 @@ Accepted publications in other formats, such as HTML or EPUB,
 will be published on the workshop's website.
 
 Submission
-: <del>24 January 2015</del> <ins>31 January 2015</ins> through [EasyChair](https://easychair.org/conferences/?conf=wsrest2015)
+: <del>31 January 2015</del>
 
 Notification
-: 22 February 2015
+: <del>22 February 2015</del>
 
 Workshop
-: 18 May 2015
+: <del>18 May 2015</del>
