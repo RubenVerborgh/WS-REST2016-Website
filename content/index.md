@@ -21,7 +21,7 @@ These and many related [topics](/topics/) form the theme of WS-REST.
 Join us for an [exciting day](/program/)!
 
 ## Previous editions
-WS-REST 2015 marks the **sixth edition** of the workshop, after the following successful editions:
+WS-REST 2016 marks the **seventh edition** of the workshop, after the following successful editions:
 
 - [WS-REST 2015](http://ws-rest.org/2015/)
 - [WS-REST 2014](http://ws-rest.org/2014/)
