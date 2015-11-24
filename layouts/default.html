@@ -2,15 +2,15 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title><%= @item[:index] ? '' : "#{h @item[:title]} | " %>WS-REST 2015</title>
+  <title><%= @item[:index] ? '' : "#{h @item[:title]} | " %>WS-REST 2016</title>
   <link rel="stylesheet" href="/styles/main.css">
   <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic" rel="stylesheet">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 <body class="<%= @item[:title].gsub(/\W/, '').downcase %>">
   <header>
-    <h1><a href="/"><strong>WS-REST2015</strong> Workshop on Web APIs and RESTful Design</a></h1>
-    <p><a href="http://www.www2015.it/">World Wide Web Conference</a> – 18 May 2015 – Florence, Italy</p>
+    <h1><a href="/"><strong>WS-REST2016</strong> Workshop on Web APIs and RESTful Design</a></h1>
+    <p><a href="http://icwe2016.inf.usi.ch/">International Conference on Web Engineering</a> – 9 June 2016</p>
   </header>
   <nav>
     <ul>
@@ -32,7 +32,7 @@
     <%= yield %>
   </main>
   <footer>
-    <p>WS-REST 2015 – Workshop on Web APIs and RESTful Design – 18 May 2015 – Florence, Italy</p>
+    <p>WS-REST 2016 – Workshop on Web APIs and RESTful Design – 9 June 2016 – Lugano, Switzerland</p>
   </footer>
 </body>
 </html>
