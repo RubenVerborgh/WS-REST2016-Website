@@ -69,6 +69,8 @@ the [ACM template](http://www.acm.org/sigs/publications/proceedings-templates) i
 Accepted publications in other formats, such as HTML or EPUB,
 will be published on the workshop's website.
 
+Submissions are handled via EasyChair: https://easychair.org/conferences/?conf=wsrest2016.
+
 Submission
 : March 23, 2016
 
