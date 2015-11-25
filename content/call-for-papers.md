@@ -15,10 +15,10 @@ Why?
 : Web APIs are more important than ever, yet many unsolved problems demand our attention.
 
 When?
-: Full-day workshop on May 18, 2015 – **paper submissions before January 31, 2015.**
+: Full-day workshop on June 6, 2016 – **paper submissions before March 23, 2016.**
 
 Where?
-: At the [WWW2015 conference](http://www.www2015.it/) in Florence, Italy.
+: At the [ICWE conference](http://icwe2016.webengineering.org/) in Lugano, Switzerland.
 
 ## Scope
 **Thousands of APIs** exist and their number is growing tremendously,
@@ -70,10 +70,10 @@ Accepted publications in other formats, such as HTML or EPUB,
 will be published on the workshop's website.
 
 Submission
-: <del>31 January 2015</del>
+: March 23, 2016
 
 Notification
-: <del>22 February 2015</del>
+: April 29, 2016
 
 Workshop
-: <del>18 May 2015</del>
+: June 6, 2016
