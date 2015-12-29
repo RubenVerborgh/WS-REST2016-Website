@@ -15,7 +15,7 @@ Why?
 : Web APIs are more important than ever, yet many unsolved problems demand our attention.
 
 Where?
-: Full-day workshop on 6 June 2016 – **paper submissions before 16 March 2016.**
+: Full-day workshop on 9 June 2016 – **paper submissions before 16 March 2016.**
 
 Where?
 : At the [ICWE conference](http://icwe2016.webengineering.org/) in Lugano, Switzerland.
@@ -81,4 +81,4 @@ Notification
 : 29 April 2016
 
 Workshop
-: 6 June 2016
+: 9 June 2016
