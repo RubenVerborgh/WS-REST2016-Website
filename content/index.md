@@ -26,6 +26,8 @@ Or are you working on anything Web API- or REST-related you want to show?
 
 Contacts with Springer are in progress to publish ICWE workshop papers in an ICWE 2016 satellite event post-proceedings as _Lecture Notes in Computer Science (LNCS)_.
 
+[Submit your paper through EasyChair.](https://easychair.org/conferences/?conf=wsrest2016)
+
 ## Previous editions
 WS-REST 2016 marks the **seventh edition** of the workshop, after the following successful editions:
 

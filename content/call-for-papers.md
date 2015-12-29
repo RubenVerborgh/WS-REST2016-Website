@@ -20,6 +20,8 @@ Where?
 Where?
 : At the [ICWE conference](http://icwe2016.webengineering.org/) in Lugano, Switzerland.
 
+[Submit your paper through EasyChair.](https://easychair.org/conferences/?conf=wsrest2016)
+
 ## Scope
 **Thousands of APIs** exist and their number is growing tremendously,
 while use cases become increasingly complex.
@@ -70,7 +72,7 @@ Using the [LNCS template](https://www.springer.com/computer/lncs?SGWID=0-164-6-7
 is the fast track to the camera-ready version,
 but we accept publications in other formats, such as HTML or EPUB.
 
-Submissions are handled via EasyChair: https://easychair.org/conferences/?conf=wsrest2016.
+[Submit your paper through EasyChair.](https://easychair.org/conferences/?conf=wsrest2016)
 
 Submission
 : 16 March 2016
