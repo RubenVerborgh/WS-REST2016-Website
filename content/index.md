@@ -17,8 +17,14 @@ to tackle the issues we are facing. Many of them are not solved by far:
 
 These and many related [topics](/topics/) form the theme of WS-REST.
 
-## Participate in WS-REST
-Join us for an [exciting day](/program/)!
+## Submit your work to WS-REST
+Do you have something to say about the above questions?
+<br>
+Or are you working on anything Web API- or REST-related you want to show?
+<br>
+**The [Call for Papers](/call-for-papers/) explains how to submit your work!**
+
+Contacts with Springer are in progress to publish ICWE workshop papers in an ICWE 2016 satellite event post-proceedings as _Lecture Notes in Computer Science (LNCS)_.
 
 ## Previous editions
 WS-REST 2016 marks the **seventh edition** of the workshop, after the following successful editions:
