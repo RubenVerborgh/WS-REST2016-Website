@@ -22,3 +22,4 @@ Confirmed:
 - **Michael Mrissa**, Université de Lyon, CNRS
 - **Erik Wilde**, UC Berkeley School of Information
 - **Silvia Schreier**, innoQ
+- **Pierre-Antoine Champin**, Université de Lyon, CNRS
