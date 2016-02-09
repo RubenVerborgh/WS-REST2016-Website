@@ -24,4 +24,6 @@ Confirmed:
 - **Silvia Schreier**, innoQ
 - **Pierre-Antoine Champin**, Université de Lyon, CNRS
 - **Jim Webber**, Neo Technology
+- **Markus Lanthaler**, Google
+
 
