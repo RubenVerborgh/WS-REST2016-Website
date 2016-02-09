@@ -12,5 +12,13 @@ order: 20
 - [Carlos Pedrinaci](https://twitter.com/cpedrinaci), The Open University, United Kingdom
 
 ## Program Committee
-
-To be confirmed.
+Confirmed:
+- **Steve Vinoski**, Arista Networks
+- **Stefan Tilkov**, innoQ
+- **Vlad Stirbu**, Nokia
+- **Tomas Vitvar**, Czech Technical University
+- **Joe Gregorio**, Google
+- **Christoph Bussler**, Oracle
+- **Michael Mrissa**, Université de Lyon, CNRS
+- **Erik Wilde**, UC Berkeley School of Information
+- **Silvia Schreier**, innoQ
