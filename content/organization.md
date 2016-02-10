@@ -12,7 +12,9 @@ order: 20
 - [Carlos Pedrinaci](https://twitter.com/cpedrinaci), The Open University, United Kingdom
 
 ## Program Committee
+
 Confirmed:
+
 - **Steve Vinoski**, Arista Networks
 - **Stefan Tilkov**, innoQ
 - **Vlad Stirbu**, Nokia
