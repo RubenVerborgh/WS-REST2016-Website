@@ -28,4 +28,4 @@ Confirmed:
 - **Jim Webber**, Neo Technology
 - **Markus Lanthaler**, Google
 - **Cesare Pautasso**, University of Lugano
-
+- **Steve Klabnik**, Balanced Payments
