@@ -71,7 +71,8 @@ Contacts with Springer are in progress to publish ICWE workshop papers in a ICWE
 Using the [LNCS template](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0)
 is the fast track to the camera-ready version,
 but we accept publications in other formats, such as HTML or EPUB.
-We recommend using the [Research Articles in Simplified HTML (RASH)](https://github.com/essepuntato/rash) framework.
+We recommend using the [Research Articles in Simplified HTML (RASH)](https://github.com/essepuntato/rash) framework
+or the [dokieli](https://dokie.li/) editor.
 
 [Submit your paper through EasyChair.](https://easychair.org/conferences/?conf=wsrest2016)
 
