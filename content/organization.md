@@ -29,3 +29,4 @@ Confirmed:
 - **Markus Lanthaler**, Google
 - **Cesare Pautasso**, University of Lugano
 - **Steve Klabnik**, Balanced Payments
+- **Benjamin Carlyle**, Siemens
