@@ -15,18 +15,19 @@ order: 20
 
 Confirmed:
 
-- **Steve Vinoski**, Arista Networks
-- **Stefan Tilkov**, innoQ
-- **Vlad Stirbu**, Nokia
-- **Tomas Vitvar**, Czech Technical University
-- **Joe Gregorio**, Google
-- **Christoph Bussler**, Oracle
-- **Michael Mrissa**, Université de Lyon, CNRS
-- **Erik Wilde**, UC Berkeley School of Information
-- **Silvia Schreier**, innoQ
-- **Pierre-Antoine Champin**, Université de Lyon, CNRS
-- **Jim Webber**, Neo Technology
-- **Markus Lanthaler**, Google
-- **Cesare Pautasso**, University of Lugano
-- **Steve Klabnik**, Balanced Payments
 - **Benjamin Carlyle**, Siemens
+- **Cesare Pautasso**, University of Lugano
+- **Christoph Bussler**, Oracle
+- **Erik Wilde**, UC Berkeley School of Information
+- **Jim Webber**, Neo Technology
+- **Joe Gregorio**, Google
+- **Maria Maleshkova**, Karlsruhe Institute of Technology
+- **Markus Lanthaler**, Google
+- **Michael Mrissa**, Université de Lyon, CNRS
+- **Pierre-Antoine Champin**, Université de Lyon, CNRS
+- **Silvia Schreier**, innoQ
+- **Stefan Tilkov**, innoQ
+- **Steve Klabnik**, Balanced Payments
+- **Steve Vinoski**, Arista Networks
+- **Tomas Vitvar**, Czech Technical University
+- **Vlad Stirbu**, Nokia
