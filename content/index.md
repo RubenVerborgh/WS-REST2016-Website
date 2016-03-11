@@ -24,12 +24,14 @@ Or are you working on anything Web API- or REST-related you want to show?
 <br>
 **The [Call for Papers](/call-for-papers/) explains how to submit your work!**
 
-Contacts with Springer are in progress to publish ICWE workshop papers in an ICWE 2016 satellite event post-proceedings as _Lecture Notes in Computer Science (LNCS)_.
-
 [Submit your paper through EasyChair.](https://easychair.org/conferences/?conf=wsrest2016)
+
+![Springer](images/springer.png)
+**All accepted papers will be published by Springer in a single joint ICWE 2016 Workshop post-proceedings in LNCS.**
 
 ## Previous editions
 WS-REST 2016 marks the **seventh edition** of the workshop, after the following successful editions:
+
 
 - [WS-REST 2015](http://ws-rest.org/2015/)
 - [WS-REST 2014](http://ws-rest.org/2014/)
@@ -37,3 +39,4 @@ WS-REST 2016 marks the **seventh edition** of the workshop, after the following 
 - [WS-REST 2012](http://ws-rest.org/2012/)
 - [WS-REST 2011](http://ws-rest.org/2011/)
 - [WS-REST 2010](http://ws-rest.org/2010/)
+
