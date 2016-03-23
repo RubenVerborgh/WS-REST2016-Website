@@ -5,6 +5,8 @@ order: 10
 
 # Call for Papers
 
+**Submission deadline extended to 30 March 2016**
+
 Who?
 : Web researchers and engineers working on API servers and clients.
 
@@ -77,7 +79,7 @@ or the [dokieli](https://dokie.li/) editor.
 [Submit your paper through EasyChair.](https://easychair.org/conferences/?conf=wsrest2016)
 
 Submission
-: 16 March 2016
+: <del>16</del> 30 March 2016
 
 Notification
 : 29 April 2016
